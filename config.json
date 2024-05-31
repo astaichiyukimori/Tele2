@@ -1,14 +1,14 @@
 {
-  "prefix": "/",
+  "prefix": ".",
   "greetNewMembers": {
         "enabled": true,
         "gifUrl": "https://tinyurl.com/2xzaydex"
   },
   "port": "8080",
   "owner": "Nelzy",
-  "owner_id": 1472439428,
-  "token": "7053069972:AAHIufrxkVC0Yr9JbB0h35woDGdlE239fLE",
-  "age": "14",
+  "owner_id": 6871263045,
+  "token": "7087259111:AAEuxxNDt3WtTe8h-H2kOhK2fb4hYyWw3aM",
+  "age": "15",
   "gender": "male",
-  "country": "Philippines"
+  "country": "Nigeria"
 }
